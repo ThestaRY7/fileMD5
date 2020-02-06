@@ -3,7 +3,6 @@
 #
 # fileMD5 v1.0
 # Author:ThestaRY
-# github:
 
 
 import hashlib
