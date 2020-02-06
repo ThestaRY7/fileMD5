@@ -1,6 +1,5 @@
 #_*_ coding:utf-8 _*-
 # Python 3.7
-#
 # fileMD5 v1.0
 # Author:ThestaRY
 
